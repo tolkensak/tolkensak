@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-
+scale=1.0">
+<title>Tolkn · Full Stack & C/C++ Developer</title>
+<link href="https://fonts.googleapis.com/css2?
+family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
+&display=swap" rel="stylesheet">
+<style>
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+ font-family: 'Inter', sans-serif;
+background: #f8fafc;
+color: #0f172a;
+line-height: 1.5;
+}
+.container {
+max-width: 1100px;
+margin: 0 auto;
+padding: 2rem 1.5rem;
+}
+/* header */
+.header {
+text-align: center;
+margin-bottom: 3rem;
+}
+.name {
+font-size: 3rem;
+font-weight: 700;
+letter-spacing: -0.02em;
+background: linear-gradient(135deg, #1e3c72, #2b4c7c);
+-webkit-background-clip: text;
+background-clip: text;
+color: transparent;
+}
+.tagline {
+font-size: 1.25rem;
+color: #334155;
+margin-top: 0.5rem;
+}
+ .badge-container {
+display: flex;
+justify-content: center;
+gap: 0.75rem;
+flex-wrap: wrap;
+margin: 1.5rem 0;
+}
+.badge {
+background: #e2e8f0;
+padding: 0.25rem 0.9rem;
+border-radius: 30px;
+font-size: 0.85rem;
+font-weight: 500;
+color: #1e293b;
+}
+/* sections */
+.section {
+background: white;
+border-radius: 24px;
+padding: 1.8rem 2rem;
+margin-bottom: 2rem;
+box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+border: 1px solid #eef2f6;
+}
+.section-title {
+font-size: 1.5rem;
+font-weight: 600;
+margin-bottom: 1.2rem;
+border-left: 4px solid #2c6e9e;
+ padding-left: 1rem;
+}
+.skills-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 0.6rem;
+}
+.skill {
+background: #eef2ff;
+padding: 0.3rem 1rem;
+border-radius: 40px;
+font-size: 0.85rem;
+font-weight: 500;
+}
+.project {
+margin-bottom: 1.5rem;
+}
+.project-title {
+font-weight: 700;
+font-size: 1.1rem;
+}
+.project-tech {
+font-size: 0.8rem;
+color: #2c6e9e;
+margin: 0.2rem 0 0.3rem;
+}
+.contact-links {
+display: flex;
+gap: 1.2rem;
+ flex-wrap: wrap;
+margin-top: 0.8rem;
+}
+.contact-links a {
+color: #1e3c72;
+text-decoration: none;
+font-weight: 500;
+border-bottom: 1px solid #cbd5e1;
+}
+.contact-links a:hover {
+color: #0f2b47;
+border-bottom-color: #1e3c72;
+}
+hr {
+margin: 1rem 0;
+border: none;
+border-top: 1px solid #e2e8f0;
+}
+footer {
+text-align: center;
+font-size: 0.8rem;
+color: #64748b;
+margin-top: 2rem;
+}
+@media (max-width: 640px) {
+.section {
+padding: 1.5rem;
+}
+.name {
+ font-size: 2.2rem;
+}
+}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+<div class="name">TOLKYN</div>
+<div class="tagline">Full Stack & C/C++ Developer · 22+
+years of experience</div>
+<div class="badge-container">
+<span class="badge">
+Almaty</span>
+🇰🇿
+<span class="badge">
+Open to US/EU</span>
+🌍
+<span class="badge">
+PHP · JS · C++</span>
+🔧
+</div>
+</div>
+<div class="section">
+<div class="section-title">
+About me</div>
+👋
+<p>I’m a software engineer with 22+ years of hands-on
+experience — from embedded GIS on Windows Pocket PC to modern web
+backends and dashboards. I’ve built e-commerce platforms, medical
+lab automation, API ecosystems, 2FA systems, and real-time
+reporting tools. I write clean, documented code and love solving
+hard problems. Currently looking for senior/lead roles in the US
+or Europe (remote or relocation).</p>
+</div>
+<div class="section">
+<div class="section-title">
+Tech skills</div>
+🛠️
+ <div class="skills-grid">
+<span class="skill">PHP 5-8</span> <span
+class="skill">Laravel/Symfony</span>
+<span class="skill">JavaScript (ES6+)</span> <span
+class="skill">jQuery</span>
+<span class="skill">Vue / Angular / React</span> <span
+class="skill">Node.js</span>
+<span class="skill">C/C++ (MFC, WinAPI)</span> <span
+class="skill">STL</span>
+<span class="skill">MySQL / PostgreSQL / MS SQL</span>
+<span class="skill">MongoDB</span>
+<span class="skill">REST API / WebSocket</span> <span
+class="skill">Docker / Git / SSH</span>
+<span class="skill">HTML5 / CSS3 / Bootstrap</span>
+<span class="skill">Linux / Unix</span>
+</div>
+</div>
+<div class="section">
+<div class="section-title">
+Selected projects</div>
+📌
+<div class="project">
+<div class="project-title">Busincard</div>
+<div class="project-tech">PHP7 · JS · MySQL ·
+DataTables · BingMap</div>
+<div>Business promotion platform with interactive maps
+and client dashboards.</div>
+</div>
+<div class="project">
+<div class="project-title">Fitomir (e-commerce)</div>
+<div class="project-tech">PHP7 · Laravel · MySQL ·
+jQuery · Bootstrap</div>
+<div>Full online store with shopping cart, order
+dispatch, product registration.</div>
+ </div>
+<div class="project">
+<div class="project-title">MobileGIS (Windows Pocket
+PC)</div>
+<div class="project-tech">Visual C++ · MFC · Windows
+CE · GPS</div>
+<div>Mobile geographic information system for field
+data collection.</div>
+</div>
+<div class="project">
+<div class="project-title">Medlab (lab
+automation)</div>
+<div class="project-tech">PHP · MySQL · JavaScript ·
+HTML/CSS</div>
+<div>Web-based workflow automation for a medical
+laboratory.</div>
+</div>
+</div>
+<div class="section">
+<div class="section-title">
+Contact & profiles</div>
+📫
+<div class="contact-links">
+<a href="mailto:tolken.sak@gmail.com">
+✉️
+tolken.sak@gmail.com</a>
+<!--<a href="https://linkedin.com/in/tolkn"
+target="_blank">
+LinkedIn</a>
+🔗-->
+<a href="https://github.com/tolkensak" target="_blank">
+🐙
+GitHub</a>
+</div>
+<hr>
+<div><strong>
+Languages:</strong>
+💬
+Kazakh (native) · English (B2) · Chinese (B2) · Russian (B2)</div>
+ </div>
+<footer>
+/
+Open to work · Full Stack / C/C++ roles · Remote or
+🇺🇸
+🇪🇺
+relocation
+</footer>
+</div>
+</body>
+</html>
