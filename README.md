@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tolkyn
 
-**Full Stack Developer, PHP ! JavaScript ! C/C++**,  22+ years of experience  
+**Full Stack & C/C++ Developer** · 22+ years of experience  
 📍 Almaty, Kazakhstan · 🌍 Open to US/Europe roles (remote or relocation)
 
 ---
