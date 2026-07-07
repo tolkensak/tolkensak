@@ -25,8 +25,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| Busincard | Business promotion platform | PHP7, JS, MySQL, DataTables, BingMap |
-| Fitomir | Full e‑commerce (cart, orders, product registration) | PHP7, Laravel, MySQL |
+| Busincard | Business promotion platform | PHP, JS, MySQL, DataTables, BingMap |
+| Fitomir | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, MySQL |
 | MobileGIS | Windows Pocket PC GIS for field work | C++, MFC, GPS, Windows CE |
 | Medlab | Medical lab automation web app | PHP, MySQL, vanilla JS |
 
