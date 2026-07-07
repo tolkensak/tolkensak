@@ -8,7 +8,7 @@
 ## 🧰 Tech Toolbox
 
 **Languages**  
-`PHP 5-8` `JavaScript` `C/C++` `SQL` `Lua` `HTML5/CSS3` `XML`
+`PHP` `JavaScript` `TypeScript` `C/C++` `SQL` `HTML5` `CSS3` `SCSS` `XML`
 
 **Frameworks & Libs**  
 `Laravel` `Symfony` `jQuery` `Vue` `Angular` `React` `Bootstrap` `MFC` `WinAPI`
@@ -17,7 +17,7 @@
 `MySQL` `MariaDB` `PostgreSQL` `MS SQL Server` `SQLite` `MongoDB`
 
 **Tools**  
-`Git` `Docker` `REST API` `WebSocket` `SSH` `Jira` `Composer` `OpenGL` `GPS` `UML`
+`Git` `Docker` `REST API` `WebSocket` `SSH` `Jira` `OpenGL` `GPS` `UML`
 
 ---
 
