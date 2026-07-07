@@ -11,7 +11,7 @@
 `PHP` `JavaScript` `TypeScript` `C/C++` `SQL` `HTML5` `CSS3` `SCSS` `XML`
 
 **Frameworks & Libs**  
-`Laravel` `Symfony` `jQuery` `Vue` `Angular` `React` `Bootstrap` `MFC` `WinAPI`
+`Laravel` `Symfony` `jQuery` `Vue` `Angular` `React` `Bootstrap` `STL` `MFC` `WinAPI`
 
 **Databases**  
 `MySQL` `MariaDB` `PostgreSQL` `MS SQL Server` `SQLite` `MongoDB`
