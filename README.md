@@ -39,9 +39,9 @@
 ## 💬 Languages
 
 - **Kazakh** — native  
-- **English** — professional (B2)  
-- **Chinese** — professional (B2)  
-- **Russian** — professional (B2)
+- **English** — B2 (professional)
+- **Chinese** — B2  
+- **Russian** — B2
 
 ---
 
