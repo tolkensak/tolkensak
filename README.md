@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tolkyn
 
-**Senior Full Stack Developer | PHP, Laravel, JavaScript/TypeScript, C/C++  
+Senior Full Stack Developer | PHP, Laravel, JavaScript/TypeScript, C/C++  
 📍 Almaty, Kazakhstan · 🌍 Open to remote roles
 
 ---
