@@ -8,10 +8,10 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 ## 🧰 Tech Toolbox
 
 **Backend**
-`PHP` `Laravel` `Symfony` `Node.js` `REST API`
+`PHP` `Laravel` `Symfony` `Node.js` `Next.js` `REST API`
 
 **Frontend**
-`JavaScript` `TypeScript` `React` `jQuery` `HTML5` `CSS3` `Bootstrap` `SCSS`
+`JavaScript` `TypeScript` `React` `jQuery` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `SCSS`
 
 **Databases**
 `MySQL` `MariaDB` `PostgreSQL` `MS SQL Server`
