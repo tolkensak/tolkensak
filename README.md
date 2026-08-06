@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Tolkyn
 
 Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
-📍 Almaty, Kazakhstan · 🌍 Open to remote roles
+📍 Almaty, Kazakhstan · 🌍 Open to fully remote roles
 
 ---
 
 ## 🧰 Tech Toolbox
 
 **Backend**
-`PHP` `Laravel` `Symfony` `Node.js` `Next.js` `REST API`
+`PHP` `Laravel` `Symfony` `Node.js` `REST API`
 
 **Frontend**
-`JavaScript` `TypeScript` `React` `jQuery` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `SCSS`
+`JavaScript` `TypeScript` `React` `Next.js` `jQuery` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `SCSS`
 
 **Databases**
 `MySQL` `MariaDB` `PostgreSQL` `MS SQL Server`
@@ -31,12 +31,16 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| Busincard | Business promotion platform | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap... |
-| Fitomir | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, JavaScript, jQuery, MySQL... |
-| MobileGIS | Windows Pocket PC GIS for field work | C++, STL, MFC, GPS, WinAPI... |
-| Medlab | Medical lab automation web app | PHP, MySQL, JavaScript... |
+| 🌡️ **Temperature App** | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode | React, TypeScript, Zustand, React Query, Vite, Vitest |
+| 🌦️ **My Weather App** | Full-stack weather app with server-side rendering and responsive design | Next.js, TypeScript, Tailwind CSS, Open-Meteo API |
+| **Busincard** | Business promotion platform with interactive maps and client dashboards | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap |
+| **Fitomir** | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, JavaScript, jQuery, MySQL |
+| **MobileGIS** | Windows Pocket PC GIS for field work | C++, STL, MFC, GPS, WinAPI |
+| **Medlab** | Medical lab automation web app | PHP, MySQL, JavaScript |
 
-<!--[Busincard](https://busincard.com)-->
+**Live Demos:**
+- 🌡️ [Temperature App Demo](https://tolkensak.github.io/temperature-app)
+- 🌦️ [My Weather App Demo](https://my-weather-app-liard-nine.vercel.app)
 
 > *More private/work projects available upon request.*
 
@@ -54,8 +58,9 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tolken.sak@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolkyn-akhmetollauly-0a3873a9/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://tolkensak.github.io/tolkensak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolkyn-akhmetollauly-0a3873a9)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tolkensak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tolkensak.github.io/tolkensak)
 
 ---
 
