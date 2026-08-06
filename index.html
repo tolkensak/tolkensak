@@ -3,12 +3,9 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-
-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tolkyn · Full Stack & C/C++ Developer</title>
-    <link href="https://fonts.googleapis.com/css2?
-family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
-&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -91,7 +88,7 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
         }
 
         .skills-table td {
-            padding: 0.4rem 0;
+            padding: 0.3rem 0;
         }
 
         .skill {
@@ -100,10 +97,15 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
             border-radius: 40px;
             font-size: 0.85rem;
             font-weight: 500;
+			display: inline-block;
+			margin: 2px 0;
         }
 
         .project {
             margin-bottom: 1.5rem;
+        }
+        .project:last-child {
+            margin-bottom: 0;
         }
 
         .project-title {
@@ -115,6 +117,17 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
             font-size: 0.8rem;
             color: #2c6e9e;
             margin: 0.2rem 0 0.3rem;
+        }
+        .project-links a {
+            font-size: 0.85rem;
+            color: #1e3c72;
+            text-decoration: none;
+            border-bottom: 1px solid #cbd5e1;
+            margin-right: 0.75rem;
+        }
+        .project-links a:hover {
+            color: #0f2b47;
+            border-bottom-color: #1e3c72;
         }
 
         .contact-links {
@@ -153,7 +166,6 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
             .section {
                 padding: 1.5rem;
             }
-
             .name {
                 font-size: 2.2rem;
             }
@@ -165,7 +177,7 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
     <div class="container">
         <div class="header">
             <div class="name">Tolkyn Akhmetollauly</div>
-            <div class="tagline">Senior Full Stack Developer</div>
+            <div class="tagline">Senior Full Stack Developer · PHP/Laravel, React, C++</div>
             <div class="badge-container">
                 🇰🇿 <span class="badge">Almaty</span>                
                 🌍 <span class="badge">Open to remote roles</span>                
@@ -201,7 +213,7 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
                 <br /><br />
                 Open to senior Full Stack Developer, Backend Developer, PHP/Laravel Developer, and C/C++ Developer roles
                 with international teams. Remote preferred; relocation or visa-supported opportunities are also
-                welcome..
+                welcome.
             </div>
         </div>
         <div class="section">
@@ -209,10 +221,10 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
             <div>
                 <table class="skills-table">
                     <tr><td>Backend</td><td>
-                        <span class="skill">PHP</span> <span class="skill">Laravel</span> <span class="skill">Symfony</span> <span class="skill">Node.js</span> <span class="skill">Next.js</span> <span class="skill">REST API</span>
+                        <span class="skill">PHP</span> <span class="skill">Laravel</span> <span class="skill">Symfony</span> <span class="skill">Node.js</span> <span class="skill">REST API</span>
                     </td></tr>
                     <tr><td>Frontend</td><td>
-                        <span class="skill">JavaScript</span> <span class="skill">TypeScript</span> <span class="skill">React</span> <span class="skill">jQuery</span> <span class="skill">HTML5</span> <span class="skill">CSS3</span> <span class="skill">Tailwind CSS</span> <span class="skill">Bootstrap</span> <span class="skill">SCSS</span>
+                        <span class="skill">JavaScript</span> <span class="skill">TypeScript</span> <span class="skill">React</span> <span class="skill">Next.js</span> <span class="skill">jQuery</span> <span class="skill">HTML5</span> <span class="skill">CSS3</span> <span class="skill">Tailwind CSS</span> <span class="skill">Bootstrap</span> <span class="skill">SCSS</span>
                     </td></tr>
                     <tr><td>Databases</td><td>
                         <span class="skill">MySQL</span> <span class="skill">MariaDB</span> <span class="skill">PostgreSQL</span> <span class="skill">MS SQL Server</span>
@@ -232,6 +244,26 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
 
         <div class="section">
             <div class="section-title">📌 Selected projects</div>
+
+            <div class="project">
+                <div class="project-title">🌡️ Temperature App</div>
+                <div class="project-tech">React · TypeScript · Zustand · React Query · Vite · Vitest</div>
+                <div>Modern weather app with real-time data, temperature conversion, history tracking, and dark mode.</div>
+                <div class="project-links">
+                    <a href="https://github.com/tolkensak/temperature-app" target="_blank">GitHub</a>
+                    <a href="https://tolkensak.github.io/temperature-app" target="_blank">Live Demo</a>
+                </div>
+            </div>
+
+            <div class="project">
+                <div class="project-title">🌦️ My Weather App</div>
+                <div class="project-tech">Next.js · TypeScript · Tailwind CSS · Open-Meteo API</div>
+                <div>Full-stack weather application with server-side rendering and responsive design.</div>
+                <div class="project-links">
+                    <a href="https://github.com/tolkensak/my-weather-app" target="_blank">GitHub</a>
+                </div>
+            </div>
+
             <div class="project">
                 <div class="project-title">Busincard</div>
                 <div class="project-tech">PHP · JavaScript · jQuery · MySQL · DataTables · BingMap</div>
@@ -257,7 +289,7 @@ family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700
             <div class="section-title">📫 Contact & profiles</div>
             <div class="contact-links">
                 <a href="mailto:tolken.sak@gmail.com">✉️ tolken.sak@gmail.com</a>
-                <a href="https://www.linkedin.com/in/tolkyn-akhmetollauly-0a3873a9/" target="_blank">🔗 LinkedIn</a>
+                <a href="https://www.linkedin.com/in/tolkyn-akhmetollauly-0a3873a9" target="_blank">🔗 LinkedIn</a>
                 <a href="https://github.com/tolkensak" target="_blank">🐙 GitHub</a>
             </div>
             <hr>
