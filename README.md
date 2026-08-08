@@ -31,16 +31,16 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌡️&nbsp;[**Temperature App**](https://github.com/tolkensak/temperature-app) | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode | React, TypeScript, Zustand, React Query, Vite, Vitest |
-| 🌦️&nbsp;[**My Weather App**](https://github.com/tolkensak/my-weather-app) | Full-stack weather app with server-side rendering and responsive design | Next.js, TypeScript, Tailwind CSS, Open-Meteo API |
+| <nobr>🌡️ [**Temperature App**](https://github.com/tolkensak/temperature-app)</nobr> | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode | React, TypeScript, Zustand, React Query, Vite, Vitest |
+| <nobr>🌦️ [**My Weather App**](https://github.com/tolkensak/my-weather-app)</nobr> | Full-stack weather app with server-side rendering and responsive design | Next.js, TypeScript, Tailwind CSS, Open-Meteo API |
 | **Busincard** | Business promotion platform with interactive maps and client dashboards | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap |
 | **Fitomir** | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, JavaScript, jQuery, MySQL |
 | **MobileGIS** | Windows Pocket PC GIS for field work | C++, STL, MFC, GPS, WinAPI |
 | **Medlab** | Medical lab automation web app | PHP, MySQL, JavaScript |
 
 **Live Demos:**
-- 🌡️&nbsp;[Temperature App Demo](https://tolkensak.github.io/temperature-app)
-- 🌦️&nbsp;[My Weather App Demo](https://my-weather-app-liard-nine.vercel.app)
+- 🌡️ [Temperature App Demo](https://tolkensak.github.io/temperature-app)
+- 🌦️ [My Weather App Demo](https://my-weather-app-liard-nine.vercel.app)
 
 > *More private/work projects available upon request.*
 
