@@ -17,7 +17,7 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 `MySQL` `MariaDB` `PostgreSQL` `MS SQL Server`
 
 **Systems**
-`Linux` `Docker` `SSH` `Apache` `Nginx` `GitHub` `Jira`
+`Linux` `Docker` `SSH` `Apache` `Nginx` `GitHub` `Jira` `Vercel`
 
 **C/C++**
 `C++` `STL` `MFC` `WinAPI` `Windows CE` `GPS`
@@ -31,14 +31,16 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌡️&nbsp;[**Temperature&nbsp;App**](https://github.com/tolkensak/temperature-app) | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode | React, TypeScript, Zustand, React Query, Vite, Vitest |
-| 🌦️&nbsp;[**My&nbsp;Weather&nbsp;App**](https://github.com/tolkensak/my-weather-app) | Full-stack weather app with server-side rendering and responsive design | Next.js, TypeScript, Tailwind CSS, Open-Meteo API |
+| 📱&nbsp;[**Temperature&nbsp;App**](https://github.com/tolkensak/temperature-app) | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode | Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel |
+| 🌡️&nbsp;[**ASO&nbsp;Audit&nbsp;Agent**](https://github.com/tolkensak/aso-audit-agent) | AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations | React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel |
+| 🌦️&nbsp;[**My&nbsp;Weather&nbsp;App**](https://github.com/tolkensak/my-weather-app) | Full-stack weather app with server-side rendering and responsive design | Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel |
 | **Busincard** | Business promotion platform with interactive maps and client dashboards | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap |
 | **Fitomir** | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, JavaScript, jQuery, MySQL |
 | **MobileGIS** | Windows Pocket PC GIS for field work | C++, STL, MFC, GPS, WinAPI |
 | **Medlab** | Medical lab automation web app | PHP, MySQL, JavaScript |
 
 **Live Demos:**
+- 📱 [ASO Audit Agent Demo](https://aso-audit-agent-rho.vercel.app/)
 - 🌡️ [Temperature App Demo](https://tolkensak.github.io/temperature-app)
 - 🌦️ [My Weather App Demo](https://my-weather-app-liard-nine.vercel.app)
 
