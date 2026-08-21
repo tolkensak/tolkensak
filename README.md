@@ -34,10 +34,10 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 | 📱&nbsp;[**ASO&nbsp;Audit&nbsp;Agent**](https://github.com/tolkensak/temperature-app) | AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations | Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel |
 | 🌡️&nbsp;[**Temperature&nbsp;App**](https://github.com/tolkensak/aso-audit-agent) | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode | React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel |
 | 🌦️&nbsp;[**My&nbsp;Weather&nbsp;App**](https://github.com/tolkensak/my-weather-app) | Full-stack weather app with server-side rendering and responsive design | Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel |
-| **Busincard** | Business promotion platform with interactive maps and client dashboards | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap |
-| **Fitomir** | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, JavaScript, jQuery, MySQL |
-| **MobileGIS** | Windows Pocket PC GIS for field work | C++, STL, MFC, GPS, WinAPI |
-| **Medlab** | Medical lab automation web app | PHP, MySQL, JavaScript |
+| <img src="image/busincard.png" alt="Busincard" width="16">&nbsp;&nbsp;**Busincard** | Business promotion platform with interactive maps and client dashboards | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap |
+| <img src="image/fitomir.png" alt="Fitomir" width="16">&nbsp;&nbsp;**Fitomir** | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, JavaScript, jQuery, MySQL |
+| <img src="image/mobilegis.png" alt="MobileGIS" width="16">&nbsp;&nbsp;**MobileGIS** | Windows Pocket PC GIS for field work | C++, STL, MFC, GPS, WinAPI |
+| <img src="image/medlab.png" alt="Medlab" width="16">&nbsp;&nbsp;**Medlab** | Medical lab automation web app | PHP, MySQL, JavaScript |
 
 **Live Demos:**
 - 📱 [ASO Audit Agent Demo](https://aso-audit-agent-rho.vercel.app/)
