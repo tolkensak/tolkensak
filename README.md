@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tolkyn
 
-Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
+Senior Full Stack Engineer · PHP/Laravel, React/TypeScript, Node.js, C/C++
 📍 Almaty, Kazakhstan · 🌍 Open to fully remote roles
 
 ---
@@ -11,7 +11,7 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 `PHP` `Laravel` `Symfony` `Node.js` `REST API`
 
 **Frontend**
-`JavaScript` `TypeScript` `React` `Next.js` `jQuery` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `SCSS`
+`JavaScript` `TypeScript` `React` `Next.js` `jQuery` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
 **Databases**
 `MySQL` `MariaDB` `PostgreSQL` `MS SQL Server`
@@ -22,8 +22,6 @@ Senior Full Stack Developer | PHP, Laravel, JavaScript, React, C/C++
 **C/C++**
 `C++` `STL` `MFC` `WinAPI` `Windows CE` `GPS`
 
-**Currently improving**
-`Next.js` `modern React`
 
 ---
 
