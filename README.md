@@ -8,7 +8,7 @@ Senior Full Stack Engineer · PHP/Laravel, React/TypeScript, Node.js, C/C++
 ## 🧰 Tech Toolbox
 
 **Backend**
-`PHP` `Laravel` `Symfony` `Node.js` `REST API`
+`PHP` `Laravel` `Symfony` `Node.js` `REST APIs`
 
 **Frontend**
 `JavaScript` `TypeScript` `React` `Next.js` `jQuery` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
