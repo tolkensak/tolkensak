@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Tolkyn
+# Hey, I'm Tolkyn
 
 Senior Full Stack Engineer · PHP/Laravel, React/TypeScript, Node.js, C/C++
 📍 Almaty, Kazakhstan · 🌍 Open to fully remote roles
