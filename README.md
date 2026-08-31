@@ -5,6 +5,20 @@ Senior Full Stack Engineer · PHP/Laravel, React/TypeScript, Node.js, C/C++
 
 ---
 
+## 👋 About Me
+
+Senior Full Stack Developer with extensive experience building scalable web platforms, API integrations, and automation systems.
+
+Deep expertise in PHP/Laravel, JavaScript/TypeScript, React, Node.js, Next.js, and modern full-stack development.
+
+Proven track record of delivering complex modules — 2FA, API/SSH key management, reporting dashboards, and server automation — for global hosting platforms.
+
+Passionate about clean code, system design, and mentoring.
+
+Open to remote roles with international teams.
+
+---
+
 ## 🧰 Tech Toolbox
 
 **Backend**
@@ -21,7 +35,6 @@ Senior Full Stack Engineer · PHP/Laravel, React/TypeScript, Node.js, C/C++
 
 **C/C++**
 `C++` `STL` `MFC` `WinAPI` `Windows CE` `GPS`
-
 
 ---
 
