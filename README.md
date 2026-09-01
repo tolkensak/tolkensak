@@ -51,7 +51,7 @@ Open to remote roles with international teams.
 | <img src="image/mobilegis.png" alt="MobileGIS" width="16">&nbsp;&nbsp;**MobileGIS** | Windows Pocket PC GIS for field work | C++, STL, MFC, GPS, WinAPI |
 | <img src="image/medlab.png" alt="Medlab" width="16">&nbsp;&nbsp;**Medlab** | Medical lab automation web app | PHP, MySQL, JavaScript |
 
-**Live Demos:**
+### ▶️ Live Demos
 - 📱 [ASO Audit Agent Demo](https://aso-audit-agent-rho.vercel.app/)
 - 🔗 [link-hub Demo](https://link-hub-tan.vercel.app)
 - 🌡️ [Temperature App Demo](https://tolkensak.github.io/temperature-app)
