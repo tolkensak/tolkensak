@@ -25,7 +25,7 @@ Open to remote roles with international teams.
 `PHP` `Laravel` `Symfony` `Node.js` `REST APIs`
 
 **Frontend**
-`JavaScript` `TypeScript` `React` `Next.js` `jQuery` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
+`JavaScript` `TypeScript` `React` `Next.js` `shadcn/ui` `Radix UI` `jQuery` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
 **Databases**
 `MySQL` `MariaDB` `PostgreSQL` `MS SQL Server` `Drizzle ORM`
@@ -43,7 +43,7 @@ Open to remote roles with international teams.
 | Project | Description | Tech |
 |---------|-------------|------|
 | 📱&nbsp;[**ASO&nbsp;Audit&nbsp;Agent**](https://github.com/tolkensak/temperature-app) | AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations | Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel |
-| 🔗&nbsp;[**link-hub**](https://github.com/tolkensak/link-hub) | Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM | Next.js, TypeScript, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel |
+| 🔗&nbsp;[**link-hub**](https://github.com/tolkensak/link-hub) | Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM | Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel |
 | 🌡️&nbsp;[**Temperature&nbsp;App**](https://github.com/tolkensak/aso-audit-agent) | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode | React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel |
 | 🌦️&nbsp;[**My&nbsp;Weather&nbsp;App**](https://github.com/tolkensak/my-weather-app) | Full-stack weather app with server-side rendering and responsive design | Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel |
 | <img src="image/busincard.png" alt="Busincard" width="16">&nbsp;&nbsp;**Busincard** | Business promotion platform with interactive maps and client dashboards | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap |
