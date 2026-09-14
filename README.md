@@ -22,21 +22,21 @@ Open to remote roles with international teams.
 ## 🧰 Tech Toolbox
 
 
-`PHP` `Laravel` `Symfony` `Node.js` `Next.js` `Next.js API Routes` `NextAuth.js` `REST APIs`
+👉 `PHP` `Laravel` `Symfony` `Node.js` `Next.js` `Next.js API Routes` `NextAuth.js` `REST APIs`
 
-`JavaScript` `TypeScript` `React` `shadcn/ui` `Radix UI` `LangChain.js` `jQuery`
+👉 `JavaScript` `TypeScript` `React` `shadcn/ui` `Radix UI` `LangChain.js` `jQuery`
 
-`RAG (Retrieval-Augmented Generation)` `Vector Databases (Pinecone)` `LLM Integration (Groq, OpenAI)` `Embeddings` `Semantic Search` `AI Application Development`
+👉 `RAG (Retrieval-Augmented Generation)` `Vector Databases (Pinecone)` `LLM Integration (Groq, OpenAI)` `Embeddings` `Semantic Search` `AI Application Development`
 
-`HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
+👉 `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
-**Databases**
+**Databases:**
 `PostgreSQL` `Drizzle ORM` `MySQL` `MariaDB` `MS SQL Server`
 
-**Systems**
+**Systems:**
 `Linux` `Docker` `SSH` `Apache` `Nginx` `GitHub` `Jira` `Vercel`
 
-**C/C++**
+**C/C++:**
 `C++` `STL` `MFC` `WinAPI` `Windows CE` `GPS`
 
 <br />
