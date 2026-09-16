@@ -1,21 +1,15 @@
 # Hey, I'm Tolkyn
 
-Senior Full Stack Engineer · PHP/Laravel, React/TypeScript, Node.js, C/C++
+Senior Full Stack Engineer · React/TypeScript, Next.js, Node.js, AI/RAG · PHP/Laravel
 📍 Almaty, Kazakhstan · 🌍 Open to fully remote roles
 
 <br />
 
 ## 👋 About Me
 
-Senior Full Stack Developer with extensive experience building scalable web platforms, API integrations, and automation systems.
+Senior Full Stack Developer with 18+ years of experience, specializing in React/TypeScript, Next.js, and Node.js.
 
-Deep expertise in PHP/Laravel, JavaScript/TypeScript, React, Node.js, Next.js, and modern full-stack development.
-
-Proven track record of delivering complex modules — 2FA, API/SSH key management, reporting dashboards, and server automation — for global hosting platforms.
-
-Passionate about clean code, system design, and mentoring.
-
-Open to remote roles with international teams.
+Recently built AI-powered applications using RAG pipelines, LangChain, and vector databases. Deep background in PHP/Laravel and systems programming (C/C++).
 
 <br />
 
