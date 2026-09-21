@@ -1,7 +1,7 @@
 # Hey, I'm Tolkyn
 
 Senior Full Stack Engineer · React/TypeScript, Next.js, Node.js, AI/RAG · PHP/Laravel
-📍 Almaty, Kazakhstan · 🌍 Open to fully remote roles
+📍 Almaty, Kazakhstan · 🌍 Open to remote roles
 
 <br />
 
