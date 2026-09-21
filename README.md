@@ -24,13 +24,13 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 
 💠 `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
-**Databases:**
+💠 **Databases:**
 `PostgreSQL` `Drizzle ORM` `MySQL` `MariaDB` `MS SQL Server`
 
-**Systems:**
+💠 **Systems:**
 `Linux` `Docker` `SSH` `Apache` `Nginx` `GitHub` `Jira` `Vercel`
 
-**C/C++:**
+💠 **C/C++:**
 `C++` `STL` `MFC` `WinAPI` `Windows CE` `GPS`
 
 <br />

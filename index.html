@@ -92,10 +92,18 @@ ul {
     padding: 0.3rem 0;
 }
 
-.skill-line {
-    display: list-item;
-    list-style-type: '💠 ';
-    margin-left: 1.5rem;
+.skill-symbol-td {
+    vertical-align: top;
+}
+
+.skill-symbol {
+    margin-top: 5px;
+}
+
+.skill-label {
+    width: 60px;
+    white-space: nowrap;
+    margin-left: 0.5rem;
 }
 
 .skill {
@@ -223,45 +231,54 @@ footer {
             <div>
                 <table class="skills-table">
                     <tr>
+                        <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
                         <td colspan="2">
-                            <div class="skill-line">
-                                <span class="skill">PHP</span>
-                                <span class="skill">Laravel</span>
-                                <span class="skill">Symfony</span>
-                                <span class="skill">Node.js</span>
-                                <span class="skill">Next.js</span>
-                                <span class="skill">Next.js API Routes</span>
-                                <span class="skill">NextAuth.js</span>
-                                <span class="skill">REST APIs</span>
-                            </div>
-                            <div class="skill-line">
-                                <span class="skill">JavaScript</span>
-                                <span class="skill">TypeScript</span>
-                                <span class="skill">React</span>
-                                <span class="skill">shadcn/ui</span>
-                                <span class="skill">Radix UI</span>
-                                <span class="skill">LangChain.js</span>
-                                <span class="skill">jQuery</span>
-                            </div>
-                            <div class="skill-line">
-                                <span class="skill">RAG (Retrieval-Augmented Generation)</span>
-                                <span class="skill">Vector Databases (Pinecone)</span>
-                                <span class="skill">LLM Integration (Groq, OpenAI)</span>
-                                <span class="skill">Embeddings</span>
-                                <span class="skill">Semantic Search</span>
-                                <span class="skill">AI Application Development</span>
-                            </div>
-                            <div class="skill-line">
-                                <span class="skill">HTML5</span>
-                                <span class="skill">CSS3</span>
-                                <span class="skill">SCSS</span>
-                                <span class="skill">Tailwind CSS</span>
-                                <span class="skill">Bootstrap</span>
-                            </div>
+                            <span class="skill">PHP</span>
+                            <span class="skill">Laravel</span>
+                            <span class="skill">Symfony</span>
+                            <span class="skill">Node.js</span>
+                            <span class="skill">Next.js</span>
+                            <span class="skill">Next.js API Routes</span>
+                            <span class="skill">NextAuth.js</span>
+                            <span class="skill">REST APIs</span>
                         </td>
                     </tr>
                     <tr>
-                        <td>Databases:</td>
+                        <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
+                        <td colspan="2">
+                            <span class="skill">JavaScript</span>
+                            <span class="skill">TypeScript</span>
+                            <span class="skill">React</span>
+                            <span class="skill">shadcn/ui</span>
+                            <span class="skill">Radix UI</span>
+                            <span class="skill">LangChain.js</span>
+                            <span class="skill">jQuery</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
+                        <td colspan="2">
+                            <span class="skill">RAG (Retrieval-Augmented Generation)</span>
+                            <span class="skill">Vector Databases (Pinecone)</span>
+                            <span class="skill">LLM Integration (Groq, OpenAI)</span>
+                            <span class="skill">Embeddings</span>
+                            <span class="skill">Semantic Search</span>
+                            <span class="skill">AI Application Development</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
+                        <td colspan="2">
+                            <span class="skill">HTML5</span>
+                            <span class="skill">CSS3</span>
+                            <span class="skill">SCSS</span>
+                            <span class="skill">Tailwind CSS</span>
+                            <span class="skill">Bootstrap</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
+                        <td><div class="skill-label">Databases:</div></td>
                         <td>
                             <span class="skill">PostgreSQL</span>
                             <span class="skill">Drizzle ORM</span>
@@ -271,7 +288,8 @@ footer {
                         </td>
                     </tr>
                     <tr>
-                        <td>Systems:</td>
+                        <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
+                        <td><div class="skill-label">Systems:</div></td>
                         <td>
                             <span class="skill">Linux</span>
                             <span class="skill">Docker</span>
@@ -284,7 +302,8 @@ footer {
                         </td>
                     </tr>
                     <tr>
-                        <td>C/C++:</td>
+                        <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
+                        <td><div class="skill-label">C/C++:</div></td>
                         <td>
                             <span class="skill">C++</span> <span class="skill">STL</span> <span class="skill">MFC</span>
                             <span class="skill">WinAPI</span> <span class="skill">Windows CE</span> <span class="skill">GPS</span>
