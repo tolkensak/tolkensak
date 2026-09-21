@@ -16,13 +16,13 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 ## 🧰 Tech Toolbox
 
 
-👉 `PHP` `Laravel` `Symfony` `Node.js` `Next.js` `Next.js API Routes` `NextAuth.js` `REST APIs`
+💠 `PHP` `Laravel` `Symfony` `Node.js` `Next.js` `Next.js API Routes` `NextAuth.js` `REST APIs`
 
-👉 `JavaScript` `TypeScript` `React` `shadcn/ui` `Radix UI` `LangChain.js` `jQuery`
+💠 `JavaScript` `TypeScript` `React` `shadcn/ui` `Radix UI` `LangChain.js` `jQuery`
 
-👉 `RAG (Retrieval-Augmented Generation)` `Vector Databases (Pinecone)` `LLM Integration (Groq, OpenAI)` `Embeddings` `Semantic Search` `AI Application Development`
+💠 `RAG (Retrieval-Augmented Generation)` `Vector Databases (Pinecone)` `LLM Integration (Groq, OpenAI)` `Embeddings` `Semantic Search` `AI Application Development`
 
-👉 `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
+💠 `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
 **Databases:**
 `PostgreSQL` `Drizzle ORM` `MySQL` `MariaDB` `MS SQL Server`
