@@ -129,7 +129,7 @@ ul {
     font-size: 1.1rem;
 }
 
-.project-title>img {
+.project-title .app-icon {
     width: 20px;
     height: 20px;
     margin-right: 0.3rem;
@@ -140,6 +140,19 @@ ul {
     font-size: 0.8rem;
     color: #2c6e9e;
     margin: 0.2rem 0 0.3rem;
+}
+
+.project-links::before {
+    content: "Links: ";
+    font-size: 0.85rem;
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+
+.project-links .app-icon {
+    width: 14px;
+    height: 14px;
+    vertical-align: text-top;
 }
 
 .project-links a {
@@ -307,8 +320,8 @@ footer {
                         <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
                         <td><div class="skill-label">C/C++:</div></td>
                         <td>
-                            <span class="skill">C++</span> <span class="skill">STL</span> <span class="skill">MFC</span>
-                            <span class="skill">WinAPI</span> <span class="skill">Windows CE</span> <span class="skill">GPS</span>
+                            <span class="skill">C</span> <span class="skill">C++</span> <span class="skill">STL</span> <span class="skill">MFC</span>
+                            <span class="skill">Windows API</span> <span class="skill">Windows CE</span> <span class="skill">GPS</span>
                         </td>
                     </tr>
                 </table>
@@ -323,8 +336,8 @@ footer {
                 <div class="project-tech">Next.js · React · shadcn/ui · Radix UI · RAG (Retrieval-Augmented Generation) · LangChain.js · Vector Databases (Pinecone) · LLM Integration (Groq, OpenAI) · Embeddings · Semantic Search · AI Application Development · Vercel</div>
                 <div>An AI-Powered intelligent document assistant that lets you upload PDFs and ask questions in natural language.</div>
                 <div class="project-links">
-                    <a href="https://github.com/tolkensak/documind" target="_blank">GitHub</a>
-                    <a href="https://documind-seven-sable.vercel.app" target="_blank">Live Demo</a>
+                    <a href="https://github.com/tolkensak/documind" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
+                    <a href="https://documind-seven-sable.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png" alt=""> Live Demo</a>
                 </div>
             </div>
 
@@ -333,8 +346,8 @@ footer {
                 <div class="project-tech">Next.js · TypeScript · React · Tailwind CSS · Mastra AI · Groq · Vercel</div>
                 <div>AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations.</div>
                 <div class="project-links">
-                    <a href="https://github.com/tolkensak/aso-audit-agent" target="_blank">GitHub</a>
-                    <a href="https://aso-audit-agent-rho.vercel.app" target="_blank">Live Demo</a>
+                    <a href="https://github.com/tolkensak/aso-audit-agent" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
+                    <a href="https://aso-audit-agent-rho.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png" alt=""> Live Demo</a>
                 </div>
             </div>
 
@@ -343,8 +356,8 @@ footer {
                 <div class="project-tech">Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS · Vercel</div>
                 <div>Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM.</div>
                 <div class="project-links">
-                    <a href="https://github.com/tolkensak/link-hub" target="_blank">GitHub</a>
-                    <a href="https://link-hub-tan.vercel.app" target="_blank">Live Demo</a>
+                    <a href="https://github.com/tolkensak/link-hub" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
+                    <a href="https://link-hub-tan.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png" alt=""> Live Demo</a>
                 </div>
             </div>
 
@@ -353,8 +366,8 @@ footer {
                 <div class="project-tech">React · TypeScript · Zustand · React Query · Vite · Vitest · Vercel</div>
                 <div>Modern weather app with real-time data, temperature conversion, history tracking, and dark mode.</div>
                 <div class="project-links">
-                    <a href="https://github.com/tolkensak/temperature-app" target="_blank">GitHub</a>
-                    <a href="https://temperature-app-sooty.vercel.app" target="_blank">Live Demo</a>
+                    <a href="https://github.com/tolkensak/temperature-app" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
+                    <a href="https://temperature-app-sooty.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png" alt=""> Live Demo</a>
                 </div>
             </div>
 
@@ -363,30 +376,38 @@ footer {
                 <div class="project-tech">Next.js · TypeScript · Tailwind CSS · Open-Meteo API · Vercel</div>
                 <div>Full-stack weather application with server-side rendering and responsive design.</div>
                 <div class="project-links">
-                    <a href="https://github.com/tolkensak/my-weather-app" target="_blank">GitHub</a>
-                    <a href="https://my-weather-app-liard-nine.vercel.app" target="_blank">Live Demo</a>
+                    <a href="https://github.com/tolkensak/my-weather-app" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
+                    <a href="https://my-weather-app-liard-nine.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png" alt=""> Live Demo</a>
                 </div>
             </div>
 
             <div class="project">
-                <div class="project-title"><img src="image/busincard.png" alt="Busincard"> Busincard</div>
+                <div class="project-title"><img class="app-icon" src="image/busincard.png" alt="Busincard"> Busincard</div>
                 <div class="project-tech">PHP · JavaScript · jQuery · MySQL · DataTables · BingMap</div>
                 <div>Business promotion platform with interactive maps and client dashboards.</div>
             </div>
             <div class="project">
-                <div class="project-title"><img src="image/fitomir.png" alt="Fitomir"> Fitomir (e-commerce)</div>
+                <div class="project-title"><img class="app-icon" src="image/fitomir.png" alt="Fitomir"> Fitomir (e-commerce)</div>
                 <div class="project-tech">PHP · Laravel · JavaScript · jQuery · MySQL · Bootstrap</div>
                 <div>Full online store with shopping cart, order dispatch, product registration.</div>
             </div>
             <div class="project">
-                <div class="project-title"><img src="image/mobilegis.png" alt="MobileGIS"> MobileGIS (Windows Pocket PC)</div>
+                <div class="project-title"><img class="app-icon" src="image/mobilegis.png" alt="MobileGIS"> MobileGIS (Windows Pocket PC)</div>
                 <div class="project-tech">C++ · STL · MFC · Windows CE · GPS</div>
                 <div>Mobile geographic information system for field data collection.</div>
             </div>
             <div class="project">
-                <div class="project-title"><img src="image/medlab.png" alt="Medlab"> Medlab (Lab automation)</div>
+                <div class="project-title"><img class="app-icon" src="image/medlab.png" alt="Medlab"> Medlab (Lab automation)</div>
                 <div class="project-tech">PHP · MySQL · JavaScript · HTML · CSS</div>
                 <div>Web-based workflow automation for a medical laboratory.</div>
+            </div>
+            <div class="project">
+                <div class="project-title"><img class="app-icon" src="image/tol11.png" alt="tol11"> tol11 — C/C++ Utility Library</div>
+                <div class="project-tech">C, C++, MFC, MySQL, XML, Windows API</div>
+                <div>Multi-language utility library in continuous development since 2007. Supports multiple Visual Studio versions and includes 5 libraries.</div>
+                <div class="project-links">
+                    <a href="https://github.com/tolkensak/tol11" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
+                </div>
             </div>
         </div>
         <div class="section">
