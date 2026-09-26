@@ -13,6 +13,12 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 
 <br />
 
+---
+
+⚡ **Fun fact:** I've been coding since before the 2000s — from Windows Pocket PC to cloud APIs, and I still love learning new tools.
+
+<br />
+
 ## 🧰 Tech Toolbox
 
 
@@ -40,9 +46,9 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🧠&nbsp;**DocuMind** | An AI-Powered intelligent document assistant that lets you upload PDFs and ask questions in natural language<br/>[<img class="app-icon" src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/documind)&nbsp;&nbsp;&nbsp;[<img class="app-icon" src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://documind-seven-sable.vercel.app) | Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel |
-| 📱&nbsp;**ASO&nbsp;Audit&nbsp;Agent** | AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations<br/>[<img class="app-icon" src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/temperature-app)&nbsp;&nbsp;&nbsp;[<img class="app-icon" src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://aso-audit-agent-rho.vercel.app) | Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel |
+| 📱&nbsp;**ASO&nbsp;Audit&nbsp;Agent** | AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations<br/>[<img class="app-icon" src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/aso-audit-agent)&nbsp;&nbsp;&nbsp;[<img class="app-icon" src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://aso-audit-agent-rho.vercel.app) | Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel |
 | 🔗&nbsp;**link-hub** | Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM<br/>[<img class="app-icon" src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/link-hub)&nbsp;&nbsp;&nbsp;[<img class="app-icon" src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://link-hub-tan.vercel.app) | Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel |
-| 🌡️&nbsp;**Temperature&nbsp;App** | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode<br/>[<img class="app-icon" src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/aso-audit-agent)&nbsp;&nbsp;&nbsp;[<img class="app-icon" src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://tolkensak.github.io/temperature-app) | React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel |
+| 🌡️&nbsp;**Temperature&nbsp;App** | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode<br/>[<img class="app-icon" src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/temperature-app)&nbsp;&nbsp;&nbsp;[<img class="app-icon" src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://temperature-app-sooty.vercel.app) | React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel |
 | 🌦️&nbsp;**My&nbsp;Weather&nbsp;App** | Full-stack weather app with server-side rendering and responsive design<br/>[<img class="app-icon" src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/my-weather-app)&nbsp;&nbsp;&nbsp;[<img class="app-icon" src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://my-weather-app-liard-nine.vercel.app) | Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel |
 | <img src="image/busincard.png" alt="Busincard" width="16">&nbsp;&nbsp;**Busincard** | Business promotion platform with interactive maps and client dashboards | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap |
 | <img src="image/fitomir.png" alt="Fitomir" width="16">&nbsp;&nbsp;**Fitomir** | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, JavaScript, jQuery, MySQL |
@@ -69,9 +75,3 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolkyn-akhmetollauly-0a3873a9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tolkensak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tolkensak.github.io/tolkensak)
-
-<br />
-
----
-
-⚡ **Fun fact:** I've been coding since before the 2000s — from Windows Pocket PC to cloud APIs, and I still love learning new tools.
