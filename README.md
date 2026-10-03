@@ -48,7 +48,7 @@ An AI-Powered intelligent document assistant that lets you upload PDFs and ask q
 
 **Tech:** Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel
 
-### <img src="image/tol11.png" alt="" width="20"> tol11
+### <img src="image/tol11.png" alt="" height="18"> tol11
 
 [▶ GitHub](https://github.com/tolkensak/tol11)
 
@@ -94,25 +94,25 @@ Full-stack weather app with server-side rendering and responsive design
 
 **Tech:** Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel
 
-### <img src="image/busincard.png" alt="" width="20"> Busincard
+### <img src="image/busincard.png" alt="" height="18"> Busincard
 
 Business promotion platform with interactive maps and client dashboards
 
 **Tech:** PHP, JavaScript, jQuery, MySQL, DataTables, BingMap
 
-### <img src="image/fitomir.png" alt="" width="20"> Fitomir
+### <img src="image/fitomir.png" alt="" height="18"> Fitomir
 
 Full e‑commerce (cart, orders, product registration)
 
 **Tech:** PHP, Laravel, JavaScript, jQuery, MySQL
 
-### <img src="image/mobilegis.png" alt="" width="20"> MobileGIS
+### <img src="image/mobilegis.png" alt="" height="18"> MobileGIS
 
 Windows Pocket PC GIS for field work
 
 **Tech:** C++, STL, MFC, GPS, WinAPI
 
-### <img src="image/medlab.png" alt="" width="20"> Medlab
+### <img src="image/medlab.png" alt="" height="18"> Medlab
 
 Medical lab automation web app
 
