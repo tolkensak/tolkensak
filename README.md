@@ -42,19 +42,19 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 
 ### 🧠 DocuMind
 
+[▶ GitHub](https://github.com/tolkensak/documind)&nbsp;&nbsp;[▶ Live Demo](https://documind-seven-sable.vercel.app)
+
 An AI-Powered intelligent document assistant that lets you upload PDFs and ask questions in natural language
 
 **Tech:** Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel
 
-[GitHub](https://github.com/tolkensak/documind) · [Live Demo](https://documind-seven-sable.vercel.app)
-
 ### <img src="image/tol11.png" alt="" width="20"> tol11
+
+[▶ GitHub](https://github.com/tolkensak/tol11)
 
 Multi-language utility library in continuous development since 2007. Supports multiple Visual Studio versions and includes 5 libraries.
 
 **Tech:** C, C++, MFC, MySQL, XML, Windows API
-
-[GitHub](https://github.com/tolkensak/tol11)
 
 ### Ⓜ️ HOSTKEY Modules
 
@@ -64,35 +64,35 @@ Production modules for a global hosting platform: `DNS Management (PowerDNS)` `E
 
 ### 📱 ASO Audit Agent
 
+[▶ GitHub](https://github.com/tolkensak/aso-audit-agent)&nbsp;&nbsp;[▶ Live Demo](https://aso-audit-agent-rho.vercel.app)
+
 AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations
 
 **Tech:** Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel
 
-[GitHub](https://github.com/tolkensak/aso-audit-agent) · [Live Demo](https://aso-audit-agent-rho.vercel.app)
-
 ### 🔗 link-hub
+
+[▶ GitHub](https://github.com/tolkensak/link-hub)&nbsp;&nbsp;[▶ Live Demo](https://link-hub-tan.vercel.app)
 
 Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM
 
 **Tech:** Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel
 
-[GitHub](https://github.com/tolkensak/link-hub) · [Live Demo](https://link-hub-tan.vercel.app)
-
 ### 🌡️ Temperature App
+
+[▶ GitHub](https://github.com/tolkensak/temperature-app)&nbsp;&nbsp;[▶ Live Demo](https://temperature-app-sooty.vercel.app)
 
 Modern weather app with real-time data, temperature conversion, history tracking, and dark mode
 
 **Tech:** React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel
 
-[GitHub](https://github.com/tolkensak/temperature-app) · [Live Demo](https://temperature-app-sooty.vercel.app)
-
 ### 🌦️ My Weather App
+
+[▶ GitHub](https://github.com/tolkensak/my-weather-app)&nbsp;&nbsp;[▶ Live Demo](https://my-weather-app-liard-nine.vercel.app)
 
 Full-stack weather app with server-side rendering and responsive design
 
 **Tech:** Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel
-
-[GitHub](https://github.com/tolkensak/my-weather-app) · [Live Demo](https://my-weather-app-liard-nine.vercel.app)
 
 ### <img src="image/busincard.png" alt="" width="20"> Busincard
 
@@ -138,6 +138,6 @@ Medical lab automation web app
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tolken.sak@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolkyn-akhmetollauly-0a3873a9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tolkensak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tolkensak.github.io/tolkensak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolkyn-akhmetollauly-0a3873a9)
