@@ -128,12 +128,6 @@ a:hover {
     margin-top: 5px;
 }
 
-.skill-label {
-    width: 60px;
-    white-space: nowrap;
-    margin-left: 0.5rem;
-}
-
 .skill {
     background: #eef2ff;
     padding: 0.3rem 1rem;
@@ -154,7 +148,7 @@ a:hover {
 }
 
 .project-line {
-    margin: 0.5rem 0 0.5rem 2rem;
+    margin: 0.5rem 0;
 }
 
 .project-title {
@@ -242,9 +236,9 @@ footer {
             <div class="name">Tolkyn Akhmetollauly</div>
             <div class="tagline">Senior Full Stack Engineer · React/TypeScript, Next.js, Node.js, AI/RAG · PHP/Laravel</div>
             <div class="badge-container">
-                🇰🇿 <span class="badge">Almaty</span>
-                🌍 <span class="badge">Open to remote roles</span>
-                🔧 <span class="badge">Senior Full Stack Engineer · React/TypeScript, Next.js, Node.js, AI/RAG · PHP/Laravel</span>
+                <span class="badge">🇰🇿 Almaty</span>
+                <span class="badge">🌍 Open to remote roles</span>
+                <span class="badge">🔧 Senior Full Stack Engineer · React/TypeScript, Next.js, Node.js, AI/RAG · PHP/Laravel</span>
             </div>
         </div>
         <div class="section">
@@ -260,7 +254,7 @@ footer {
                 <table class="skills-table">
                     <tr>
                         <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
-                        <td colspan="2">
+                        <td>
                             <span class="skill">PHP</span>
                             <span class="skill">Laravel</span>
                             <span class="skill">Symfony</span>
@@ -273,7 +267,7 @@ footer {
                     </tr>
                     <tr>
                         <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
-                        <td colspan="2">
+                        <td>
                             <span class="skill">JavaScript</span>
                             <span class="skill">TypeScript</span>
                             <span class="skill">React</span>
@@ -286,7 +280,7 @@ footer {
                     </tr>
                     <tr>
                         <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
-                        <td colspan="2">
+                        <td>
                             <span class="skill">RAG (Retrieval-Augmented Generation)</span>
                             <span class="skill">Vector Databases (Pinecone)</span>
                             <span class="skill">LLM Integration (Groq, OpenAI)</span>
@@ -297,7 +291,7 @@ footer {
                     </tr>
                     <tr>
                         <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
-                        <td colspan="2">
+                        <td>
                             <span class="skill">HTML5</span>
                             <span class="skill">CSS3</span>
                             <span class="skill">SCSS</span>
@@ -307,7 +301,6 @@ footer {
                     </tr>
                     <tr>
                         <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
-                        <td><div class="skill-label">Databases:</div></td>
                         <td>
                             <span class="skill">PostgreSQL</span>
                             <span class="skill">MySQL</span>
@@ -320,7 +313,6 @@ footer {
                     </tr>
                     <tr>
                         <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
-                        <td><div class="skill-label">Systems:</div></td>
                         <td>
                             <span class="skill">Linux</span>
                             <span class="skill">Docker</span>
@@ -334,7 +326,6 @@ footer {
                     </tr>
                     <tr>
                         <td class="skill-symbol-td"><div class="skill-symbol">💠</div></td>
-                        <td><div class="skill-label">C/C++:</div></td>
                         <td>
                             <span class="skill">C</span> <span class="skill">C++</span> <span class="skill">STL</span> <span class="skill">MFC</span>
                             <span class="skill">Windows API</span> <span class="skill">Windows CE</span> <span class="skill">GPS</span>
@@ -349,95 +340,105 @@ footer {
 
             <div class="project">
                 <div class="project-title">🧠 DocuMind</div>
-                <div class="project-tech project-line">Next.js · React · shadcn/ui · Radix UI · RAG (Retrieval-Augmented Generation) · LangChain.js · Vector Databases (Pinecone) · LLM Integration (Groq, OpenAI) · Embeddings · Semantic Search · AI Application Development · Vercel</div>
                 <div class="project-descrition project-line">An AI-Powered intelligent document assistant that lets you upload PDFs and ask questions in natural language.</div>
+                <div class="project-tech project-line">Next.js · React · shadcn/ui · Radix UI · RAG (Retrieval-Augmented Generation) · LangChain.js · Vector Databases (Pinecone) · LLM Integration (Groq, OpenAI) · Embeddings · Semantic Search · AI Application Development · Vercel</div>
                 <div class="project-links project-line">
-                    <a href="https://github.com/tolkensak/documind" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
-                    <a href="https://documind-seven-sable.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png"  alt=""> Live Demo</a>
+                    <a href="https://github.com/tolkensak/documind" target="_blank">GitHub</a>
+                    <a href="https://documind-seven-sable.vercel.app" target="_blank">Live Demo</a>
                 </div>
             </div>
 
             <div class="project">
                 <div class="project-title"><img class="app-icon" src="image/tol11.png" alt=""> tol11 — C/C++ Utility Library</div>
-                <div class="project-tech project-line">C, C++, MFC, MySQL, XML, Windows API</div>
                 <div class="project-descrition project-line">Multi-language utility library in continuous development since 2007. Supports multiple Visual Studio versions and includes 5 libraries.</div>
+                <div class="project-tech project-line">C, C++, MFC, MySQL, XML, Windows API</div>
                 <div class="project-links project-line">
-                    <a href="https://github.com/tolkensak/tol11" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
+                    <a href="https://github.com/tolkensak/tol11" target="_blank">GitHub</a>
                 </div>
             </div>
 
             <div class="project">
                 <div class="project-title">Ⓜ️ HOSTKEY Modules — Production Work</div>
+                <div class="project-descrition project-line">Production modules for a global hosting platform:
+                    <span class="skill">DNS Management (PowerDNS)</span> 
+                    <span class="skill">External Server Management</span> 
+                    <span class="skill">Tags Management</span> 
+                    <span class="skill">Reports & Dashboards (Google Charts)</span> 
+                    <span class="skill">Design System & UI Modernization</span> 
+                    <span class="skill">API keys management</span> 
+                    <span class="skill">Pre-orders Management</span> 
+                    <span class="skill">Two-factor authentication (2FA with TOTP, Email, SMS)</span> 
+                    <span class="skill">Login & Social Login (Google, GitHub, VK)</span>
+                </div>
                 <div class="project-tech project-line">PHP, JavaScript, jQuery, PowerDNS, Google Charts, MySQL, REST API, DNS Management</div>
-                <div class="project-descrition project-line">Production modules for a global hosting platform: DNS Management (PowerDNS), External Server Management, Tags Management, Reports & Dashboards (Google Charts), and Design System & UI Modernization.</div>
                 <!--<div class="project-links project-line">
-                    <a href="https://github.com/tolkensak/hostkey-modules" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
+                    <a href="https://github.com/tolkensak/hostkey-modules" target="_blank">GitHub</a>
                 </div>
                 -->
             </div>
 
             <div class="project">
                 <div class="project-title">📱 ASO Audit Agent</div>
-                <div class="project-tech project-line">Next.js · TypeScript · React · Tailwind CSS · Mastra AI · Groq · Vercel</div>
                 <div class="project-descrition project-line">AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations.</div>
+                <div class="project-tech project-line">Next.js · TypeScript · React · Tailwind CSS · Mastra AI · Groq · Vercel</div>
                 <div class="project-links project-line">
-                    <a href="https://github.com/tolkensak/aso-audit-agent" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
-                    <a href="https://aso-audit-agent-rho.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png"  alt=""> Live Demo</a>
+                    <a href="https://github.com/tolkensak/aso-audit-agent" target="_blank">GitHub</a>
+                    <a href="https://aso-audit-agent-rho.vercel.app" target="_blank">Live Demo</a>
                 </div>
             </div>
 
             <div class="project">
                 <div class="project-title">🔗 link-hub</div>
-                <div class="project-tech project-line">Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS · Vercel</div>
                 <div class="project-descrition project-line">Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM.</div>
+                <div class="project-tech project-line">Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS · Vercel</div>
                 <div class="project-links project-line">
-                    <a href="https://github.com/tolkensak/link-hub" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
-                    <a href="https://link-hub-tan.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png"  alt=""> Live Demo</a>
+                    <a href="https://github.com/tolkensak/link-hub" target="_blank">GitHub</a>
+                    <a href="https://link-hub-tan.vercel.app" target="_blank">Live Demo</a>
                 </div>
             </div>
 
             <div class="project">
                 <div class="project-title">🌡️ Temperature App</div>
-                <div class="project-tech project-line">React · TypeScript · Zustand · React Query · Vite · Vitest · Vercel</div>
                 <div class="project-descrition project-line">Modern weather app with real-time data, temperature conversion, history tracking, and dark mode.</div>
+                <div class="project-tech project-line">React · TypeScript · Zustand · React Query · Vite · Vitest · Vercel</div>
                 <div class="project-links project-line">
-                    <a href="https://github.com/tolkensak/temperature-app" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
-                    <a href="https://temperature-app-sooty.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png" alt=""> Live Demo</a>
+                    <a href="https://github.com/tolkensak/temperature-app" target="_blank">GitHub</a>
+                    <a href="https://temperature-app-sooty.vercel.app" target="_blank">Live Demo</a>
                 </div>
             </div>
 
             <div class="project">
                 <div class="project-title">🌦️ My Weather App</div>
-                <div class="project-tech project-line">Next.js · TypeScript · Tailwind CSS · Open-Meteo API · Vercel</div>
                 <div class="project-descrition project-line">Full-stack weather application with server-side rendering and responsive design.</div>
+                <div class="project-tech project-line">Next.js · TypeScript · Tailwind CSS · Open-Meteo API · Vercel</div>
                 <div class="project-links project-line">
-                    <a href="https://github.com/tolkensak/my-weather-app" target="_blank"><img class="app-icon" src="image/github.png" alt=""> GitHub</a>
-                    <a href="https://my-weather-app-liard-nine.vercel.app" target="_blank"><img class="app-icon" src="image/vercel.png"  alt=""> Live Demo</a>
+                    <a href="https://github.com/tolkensak/my-weather-app" target="_blank">GitHub</a>
+                    <a href="https://my-weather-app-liard-nine.vercel.app" target="_blank">Live Demo</a>
                 </div>
             </div>
 
             <div class="project">
                 <div class="project-title"><img class="app-icon" src="image/busincard.png" alt=""> Busincard</div>
-                <div class="project-tech project-line">PHP · JavaScript · jQuery · MySQL · DataTables · BingMap</div>
                 <div class="project-descrition project-line">Business promotion platform with interactive maps and client dashboards.</div>
+                <div class="project-tech project-line">PHP · JavaScript · jQuery · MySQL · DataTables · BingMap</div>
             </div>
 
             <div class="project">
                 <div class="project-title"><img class="app-icon" src="image/fitomir.png" alt=""> Fitomir (e-commerce)</div>
-                <div class="project-tech project-line">PHP · Laravel · JavaScript · jQuery · MySQL · Bootstrap</div>
                 <div class="project-descrition project-line">Full online store with shopping cart, order dispatch, product registration.</div>
+                <div class="project-tech project-line">PHP · Laravel · JavaScript · jQuery · MySQL · Bootstrap</div>
             </div>
 
             <div class="project">
                 <div class="project-title"><img class="app-icon" src="image/mobilegis.png" alt=""> MobileGIS (Windows Pocket PC)</div>
-                <div class="project-tech project-line">C++ · STL · MFC · Windows CE · GPS</div>
                 <div class="project-descrition project-line">Mobile geographic information system for field data collection.</div>
+                <div class="project-tech project-line">C++ · STL · MFC · Windows CE · GPS</div>
             </div>
 
             <div class="project">
                 <div class="project-title"><img class="app-icon" src="image/medlab.png" alt=""> Medlab (Lab automation)</div>
-                <div class="project-tech project-line">PHP · MySQL · JavaScript · HTML · CSS</div>
                 <div class="project-descrition project-line">Web-based workflow automation for a medical laboratory.</div>
+                <div class="project-tech project-line">PHP · MySQL · JavaScript · HTML · CSS</div>
             </div>
         </div>
 

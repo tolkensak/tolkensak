@@ -30,34 +30,99 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 
 💠 `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
-💠 **Databases:**
-`PostgreSQL` `MySQL` `MariaDB` `TypeORM` `Drizzle ORM` `Prisma` `MS SQL Server`
+💠 `PostgreSQL` `MySQL` `MariaDB` `TypeORM` `Drizzle ORM` `Prisma` `MS SQL Server`
 
-💠 **Systems:**
-`Linux` `Docker` `SSH` `Apache` `Nginx` `GitHub` `Jira` `Vercel`
+💠 `Linux` `Docker` `SSH` `Apache` `Nginx` `GitHub` `Jira` `Vercel`
 
-💠 **C/C++:**
-`C` `C++` `STL` `MFC` `Windows API` `Windows CE` `GPS`
+💠 `C` `C++` `STL` `MFC` `Windows API` `Windows CE` `GPS`
 
 <br />
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧠&nbsp;**DocuMind** | An AI-Powered intelligent document assistant that lets you upload PDFs and ask questions in natural language<br/>[<img src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/documind)&nbsp;&nbsp;&nbsp;[<img src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://documind-seven-sable.vercel.app) | Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel |
-| <img src="image/tol11.png" alt="" width="16">&nbsp;&nbsp;**tol11** | Multi-language utility library in continuous development since 2007. Supports multiple Visual Studio versions and includes 5 libraries.<br/>[<img src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/tol11) | C, C++, MFC, MySQL, XML, Windows API |
-| Ⓜ️&nbsp;&nbsp;**HOSTKEY Modules** | Production modules for a global hosting platform: DNS Management (PowerDNS), External Server Management, Tags Management, Reports & Dashboards (Google Charts), and Design System & UI Modernization | PHP, JavaScript, jQuery, PowerDNS, Google Charts, MySQL, REST API, DNS Management, HTML5, CSS3, SCSS, Figma |
-| 📱&nbsp;**ASO&nbsp;Audit&nbsp;Agent** | AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations<br/>[<img src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/aso-audit-agent)&nbsp;&nbsp;&nbsp;[<img src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://aso-audit-agent-rho.vercel.app) | Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel |
-| 🔗&nbsp;**link-hub** | Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM<br/>[<img src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/link-hub)&nbsp;&nbsp;&nbsp;[<img src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://link-hub-tan.vercel.app) | Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel |
-| 🌡️&nbsp;**Temperature&nbsp;App** | Modern weather app with real-time data, temperature conversion, history tracking, and dark mode<br/>[<img src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/temperature-app)&nbsp;&nbsp;&nbsp;[<img src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://temperature-app-sooty.vercel.app) | React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel |
-| 🌦️&nbsp;**My&nbsp;Weather&nbsp;App** | Full-stack weather app with server-side rendering and responsive design<br/>[<img src="image/github.png" alt="" width="14">&nbsp;GitHub](https://github.com/tolkensak/my-weather-app)&nbsp;&nbsp;&nbsp;[<img src="image/vercel.png" alt="" width="14">&nbsp;Live Demo](https://my-weather-app-liard-nine.vercel.app) | Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel |
-| <img src="image/busincard.png" alt="" width="16">&nbsp;&nbsp;**Busincard** | Business promotion platform with interactive maps and client dashboards | PHP, JavaScript, jQuery, MySQL, DataTables, BingMap |
-| <img src="image/fitomir.png" alt="" width="16">&nbsp;&nbsp;**Fitomir** | Full e‑commerce (cart, orders, product registration) | PHP, Laravel, JavaScript, jQuery, MySQL |
-| <img src="image/mobilegis.png" alt="" width="16">&nbsp;&nbsp;**MobileGIS** | Windows Pocket PC GIS for field work | C++, STL, MFC, GPS, WinAPI |
-| <img src="image/medlab.png" alt="" width="16">&nbsp;&nbsp;**Medlab** | Medical lab automation web app | PHP, MySQL, JavaScript |
+### 🧠 DocuMind
 
-*More private/work projects available upon request.*
+An AI-Powered intelligent document assistant that lets you upload PDFs and ask questions in natural language
+
+**Tech:** Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel
+
+[GitHub](https://github.com/tolkensak/documind) · [Live Demo](https://documind-seven-sable.vercel.app)
+
+### <img src="image/tol11.png" alt="" width="20"> tol11
+
+Multi-language utility library in continuous development since 2007. Supports multiple Visual Studio versions and includes 5 libraries.
+
+**Tech:** C, C++, MFC, MySQL, XML, Windows API
+
+[GitHub](https://github.com/tolkensak/tol11)
+
+### Ⓜ️ HOSTKEY Modules
+
+Production modules for a global hosting platform: `DNS Management (PowerDNS)` `External Server Management` `Tags Management` `Reports & Dashboards (Google Charts)` `Design System & UI Modernization` `API keys management` `Pre-orders Management` `Two-factor authentication (2FA with TOTP, Email, SMS)` `Login & Social Login (Google, GitHub, VK)`
+
+**Tech:** PHP, JavaScript, jQuery, PowerDNS, Google Charts, MySQL, REST API, DNS Management, HTML5, CSS3, SCSS, Figma
+
+### 📱 ASO Audit Agent
+
+AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations
+
+**Tech:** Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel
+
+[GitHub](https://github.com/tolkensak/aso-audit-agent) · [Live Demo](https://aso-audit-agent-rho.vercel.app)
+
+### 🔗 link-hub
+
+Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM
+
+**Tech:** Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel
+
+[GitHub](https://github.com/tolkensak/link-hub) · [Live Demo](https://link-hub-tan.vercel.app)
+
+### 🌡️ Temperature App
+
+Modern weather app with real-time data, temperature conversion, history tracking, and dark mode
+
+**Tech:** React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel
+
+[GitHub](https://github.com/tolkensak/temperature-app) · [Live Demo](https://temperature-app-sooty.vercel.app)
+
+### 🌦️ My Weather App
+
+Full-stack weather app with server-side rendering and responsive design
+
+**Tech:** Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel
+
+[GitHub](https://github.com/tolkensak/my-weather-app) · [Live Demo](https://my-weather-app-liard-nine.vercel.app)
+
+### <img src="image/busincard.png" alt="" width="20"> Busincard
+
+Business promotion platform with interactive maps and client dashboards
+
+**Tech:** PHP, JavaScript, jQuery, MySQL, DataTables, BingMap
+
+### <img src="image/fitomir.png" alt="" width="20"> Fitomir
+
+Full e‑commerce (cart, orders, product registration)
+
+**Tech:** PHP, Laravel, JavaScript, jQuery, MySQL
+
+### <img src="image/mobilegis.png" alt="" width="20"> MobileGIS
+
+Windows Pocket PC GIS for field work
+
+**Tech:** C++, STL, MFC, GPS, WinAPI
+
+### <img src="image/medlab.png" alt="" width="20"> Medlab
+
+Medical lab automation web app
+
+**Tech:** PHP, MySQL, JavaScript
+
+<br >
+
+---
+
+ℹ️ *More private/work projects available upon request.*
 
 <br />
 
