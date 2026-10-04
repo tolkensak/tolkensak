@@ -56,7 +56,7 @@ Multi-language utility library in continuous development since 2007. Supports mu
 
 ### Ⓜ️ HOSTKEY Modules
 
-Production modules for a global hosting platform: `DNS Management (PowerDNS)` `External Server Management` `Tags Management` `Reports & Dashboards (Google Charts)` `Design System & UI Modernization` `API keys management` `Pre-orders Management` `Two-factor authentication (2FA with TOTP, Email, SMS)` `Login & Social Login (Google, GitHub, VK)`
+Production modules for a global hosting platform: `DNS Management (PowerDNS)` `External Server Management` `Tags Management` `Reports & Dashboards (Google Charts)` `Design System & UI Modernization` `API Keys Management` `Pre-orders Management` `Two-factor Authentication (2FA) (TOTP, Email, SMS)` `Login & Social Login (Google, GitHub, VK)`
 
 **Tech:** PHP, JavaScript, jQuery, PowerDNS, Google Charts, MySQL, REST API, DNS Management, HTML5, CSS3, SCSS, Figma
 
