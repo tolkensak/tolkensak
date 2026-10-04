@@ -11,11 +11,9 @@ Senior Full Stack Developer with 18+ years of experience, specializing in React/
 
 Recently built AI-powered applications using RAG pipelines, LangChain, and vector databases. Deep background in PHP/Laravel and systems programming (C/C++).
 
-<br />
-
 ---
 
-⚡ **Fun fact:** I've been coding since before the 2000s — from Windows Pocket PC to cloud APIs, and I still love learning new tools.
+⚡ **Fun fact:** *I've been coding since before the 2000s — from Windows Pocket PC to cloud APIs, and I still love learning new tools.*
 
 <br />
 
@@ -42,7 +40,7 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 
 ### 🧠 DocuMind
 
-[▶ GitHub](https://github.com/tolkensak/documind)&nbsp;&nbsp;[▶ Live Demo](https://documind-seven-sable.vercel.app)
+[GitHub](https://github.com/tolkensak/documind)&nbsp;&nbsp;&nbsp;[Live Demo](https://documind-seven-sable.vercel.app)
 
 An AI-Powered intelligent document assistant that lets you upload PDFs and ask questions in natural language
 
@@ -50,7 +48,7 @@ An AI-Powered intelligent document assistant that lets you upload PDFs and ask q
 
 ### <img src="image/tol11.png" alt="" height="18"> tol11
 
-[▶ GitHub](https://github.com/tolkensak/tol11)
+[GitHub](https://github.com/tolkensak/tol11)
 
 Multi-language utility library in continuous development since 2007. Supports multiple Visual Studio versions and includes 5 libraries.
 
@@ -64,7 +62,7 @@ Production modules for a global hosting platform: `DNS Management (PowerDNS)` `E
 
 ### 📱 ASO Audit Agent
 
-[▶ GitHub](https://github.com/tolkensak/aso-audit-agent)&nbsp;&nbsp;[▶ Live Demo](https://aso-audit-agent-rho.vercel.app)
+[GitHub](https://github.com/tolkensak/aso-audit-agent)&nbsp;&nbsp;&nbsp;[Live Demo](https://aso-audit-agent-rho.vercel.app)
 
 AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations
 
@@ -72,7 +70,7 @@ AI-powered App Store Optimization audit tool with real-time analysis and actiona
 
 ### 🔗 link-hub
 
-[▶ GitHub](https://github.com/tolkensak/link-hub)&nbsp;&nbsp;[▶ Live Demo](https://link-hub-tan.vercel.app)
+[GitHub](https://github.com/tolkensak/link-hub)&nbsp;&nbsp;&nbsp;[Live Demo](https://link-hub-tan.vercel.app)
 
 Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM
 
@@ -80,7 +78,7 @@ Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle O
 
 ### 🌡️ Temperature App
 
-[▶ GitHub](https://github.com/tolkensak/temperature-app)&nbsp;&nbsp;[▶ Live Demo](https://temperature-app-sooty.vercel.app)
+[GitHub](https://github.com/tolkensak/temperature-app)&nbsp;&nbsp;&nbsp;[Live Demo](https://temperature-app-sooty.vercel.app)
 
 Modern weather app with real-time data, temperature conversion, history tracking, and dark mode
 
@@ -88,7 +86,7 @@ Modern weather app with real-time data, temperature conversion, history tracking
 
 ### 🌦️ My Weather App
 
-[▶ GitHub](https://github.com/tolkensak/my-weather-app)&nbsp;&nbsp;[▶ Live Demo](https://my-weather-app-liard-nine.vercel.app)
+[GitHub](https://github.com/tolkensak/my-weather-app)&nbsp;&nbsp;&nbsp;[Live Demo](https://my-weather-app-liard-nine.vercel.app)
 
 Full-stack weather app with server-side rendering and responsive design
 
@@ -118,11 +116,9 @@ Medical lab automation web app
 
 **Tech:** PHP, MySQL, JavaScript
 
-<br >
-
 ---
 
-ℹ️ *More private/work projects available upon request.*
+*More private/work projects available upon request.*
 
 <br />
 
