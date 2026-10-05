@@ -58,7 +58,7 @@ Multi-language utility library in continuous development since 2007. Supports mu
 
 Production modules for a global hosting platform:
 
-`💠DNS Management (PowerDNS)` `💠External Server Management` `💠Tags Management` `💠Reports & Dashboards (Google Charts)` `💠Design System & UI Modernization` `💠API Keys Management` `💠Pre-orders Management` `💠Two-factor Authentication (2FA) (TOTP, Email, SMS)` `💠Login & Social Login (Google, GitHub, VK)`
+`💠DNS Management (PowerDNS)` `💠External Server Management` `💠Tags Management` `💠Reports & Dashboards (Google Charts)` `💠Design System & UI Modernization` `💠API Keys Management` `💠Pre-orders Management` `💠Two-factor Authentication (2FA) using TOTP, email, and SMS` `💠Login & Social Login (Google, GitHub, VK)`
 
 **Tech:** PHP, JavaScript, jQuery, PowerDNS, Google Charts, MySQL, REST API, DNS Management, HTML5, CSS3, SCSS, Figma
 
