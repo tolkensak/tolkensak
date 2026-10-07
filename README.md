@@ -38,7 +38,7 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 
 ## 📌 Featured Projects
 
-### 🧠 DocuMind
+### ▶ 🧠 DocuMind
 
 [GitHub](https://github.com/tolkensak/documind)&nbsp;&nbsp;&nbsp;[Live Demo](https://documind-seven-sable.vercel.app)
 
@@ -46,7 +46,7 @@ An AI-Powered intelligent document assistant that lets you upload PDFs and ask q
 
 **Tech:** Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel
 
-### <img src="image/tol11.png" alt="" height="18"> tol11
+### ▶ <img src="image/tol11.png" alt="" height="18"> tol11
 
 [GitHub](https://github.com/tolkensak/tol11)
 
@@ -54,7 +54,7 @@ Multi-language utility library in continuous development since 2007. Supports mu
 
 **Tech:** C, C++, MFC, MySQL, XML, Windows API
 
-### Ⓜ️ HOSTKEY Modules
+### ▶ Ⓜ️ HOSTKEY Modules
 
 Production modules for a global hosting platform:
 
@@ -62,7 +62,7 @@ Production modules for a global hosting platform:
 
 **Tech:** PHP, JavaScript, jQuery, PowerDNS, Google Charts, MySQL, REST API, DNS Management, HTML5, CSS3, SCSS, Figma
 
-### 📱 ASO Audit Agent
+### ▶ 📱 ASO Audit Agent
 
 [GitHub](https://github.com/tolkensak/aso-audit-agent)&nbsp;&nbsp;&nbsp;[Live Demo](https://aso-audit-agent-rho.vercel.app)
 
@@ -70,7 +70,7 @@ AI-powered App Store Optimization audit tool with real-time analysis and actiona
 
 **Tech:** Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel
 
-### 🔗 link-hub
+### ▶ 🔗 link-hub
 
 [GitHub](https://github.com/tolkensak/link-hub)&nbsp;&nbsp;&nbsp;[Live Demo](https://link-hub-tan.vercel.app)
 
@@ -78,7 +78,7 @@ Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle O
 
 **Tech:** Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel
 
-### 🌡️ Temperature App
+### ▶ 🌡️ Temperature App
 
 [GitHub](https://github.com/tolkensak/temperature-app)&nbsp;&nbsp;&nbsp;[Live Demo](https://temperature-app-sooty.vercel.app)
 
@@ -86,7 +86,7 @@ Modern weather app with real-time data, temperature conversion, history tracking
 
 **Tech:** React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel
 
-### 🌦️ My Weather App
+### ▶ 🌦️ My Weather App
 
 [GitHub](https://github.com/tolkensak/my-weather-app)&nbsp;&nbsp;&nbsp;[Live Demo](https://my-weather-app-liard-nine.vercel.app)
 
@@ -94,25 +94,25 @@ Full-stack weather app with server-side rendering and responsive design
 
 **Tech:** Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel
 
-### <img src="image/busincard.png" alt="" height="18"> Busincard
+### ▶ <img src="image/busincard.png" alt="" height="18"> Busincard
 
 Business promotion platform with interactive maps and client dashboards
 
 **Tech:** PHP, JavaScript, jQuery, MySQL, DataTables, BingMap
 
-### <img src="image/fitomir.png" alt="" height="18"> Fitomir
+### ▶ <img src="image/fitomir.png" alt="" height="18"> Fitomir
 
 Full e‑commerce (cart, orders, product registration)
 
 **Tech:** PHP, Laravel, JavaScript, jQuery, MySQL
 
-### <img src="image/mobilegis.png" alt="" height="18"> MobileGIS
+### ▶ <img src="image/mobilegis.png" alt="" height="18"> MobileGIS
 
 Windows Pocket PC GIS for field work
 
 **Tech:** C++, STL, MFC, GPS, WinAPI
 
-### <img src="image/medlab.png" alt="" height="18"> Medlab
+### ▶ <img src="image/medlab.png" alt="" height="18"> Medlab
 
 Medical lab automation web app
 
