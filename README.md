@@ -46,7 +46,7 @@ An AI-Powered intelligent document assistant that lets you upload PDFs and ask q
 
 **Tech:** Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel
 
-### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;"> <img src="image/tol11.png" alt="" height="18"> tol11
+### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;">&nbsp;&nbsp;<img src="image/tol11.png" alt="" height="18"> tol11
 
 [GitHub](https://github.com/tolkensak/tol11)
 
@@ -54,7 +54,7 @@ Multi-language utility library in continuous development since 2007. Supports mu
 
 **Tech:** C, C++, MFC, MySQL, XML, Windows API
 
-### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;"> Ⓜ️ HOSTKEY Modules
+### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;">&nbsp;&nbsp;Ⓜ️ HOSTKEY Modules
 
 Production modules for a global hosting platform:
 
@@ -94,25 +94,25 @@ Full-stack weather app with server-side rendering and responsive design
 
 **Tech:** Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel
 
-### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;"> <img src="image/busincard.png" alt="" height="18"> Busincard
+### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;">&nbsp;&nbsp;<img src="image/busincard.png" alt="" height="18"> Busincard
 
 Business promotion platform with interactive maps and client dashboards
 
 **Tech:** PHP, JavaScript, jQuery, MySQL, DataTables, BingMap
 
-### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;"> <img src="image/fitomir.png" alt="" height="18"> Fitomir
+### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;">&nbsp;&nbsp;<img src="image/fitomir.png" alt="" height="18"> Fitomir
 
 Full e‑commerce (cart, orders, product registration)
 
 **Tech:** PHP, Laravel, JavaScript, jQuery, MySQL
 
-### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;"> <img src="image/mobilegis.png" alt="" height="18"> MobileGIS
+### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;">&nbsp;&nbsp;<img src="image/mobilegis.png" alt="" height="18"> MobileGIS
 
 Windows Pocket PC GIS for field work
 
 **Tech:** C++, STL, MFC, GPS, WinAPI
 
-### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;"> <img src="image/medlab.png" alt="" height="18"> Medlab
+### <img src="image/circle.png" alt="" height="16" style="margin-right: 1rem;">&nbsp;&nbsp;<img src="image/medlab.png" alt="" height="18"> Medlab
 
 Medical lab automation web app
 
