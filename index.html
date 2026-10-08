@@ -172,7 +172,13 @@ a:hover {
 }
 
 .project-title::before {
-    content: '▶ ';
+    content: '';
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-image: url('image/circle.png');
+    background-size: contain;  /* Scales the image to fit the container */
+    background-repeat: no-repeat;
     margin-right: 1rem;
 }
 
