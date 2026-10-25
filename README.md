@@ -20,15 +20,15 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 ## 🧰 Tech Toolbox
 
 
-💠 `PHP` `Laravel` `Symfony` `Node.js` `Next.js` `Next.js API Routes` `NextAuth.js` `REST APIs`
+💠 `PHP` `Laravel` `Symfony` `Node.js` `NestJS` `Next.js` `Next.js API Routes` `NextAuth.js` `GraphQL` `REST APIs`
 
-💠 `JavaScript` `TypeScript` `React` `shadcn/ui` `Radix UI` `LangChain.js` `Google Charts` `jQuery`
+💠 `JavaScript` `TypeScript` `React` `shadcn/ui` `Radix UI` `LangChain.js` `WebSockets` `Google Charts` `jQuery` `JWT`
 
 💠 `RAG (Retrieval-Augmented Generation)` `Vector Databases (Pinecone)` `LLM Integration (Groq, OpenAI)` `Embeddings` `Semantic Search` `AI Application Development`
 
 💠 `HTML5` `CSS3` `SCSS` `Tailwind CSS` `Bootstrap`
 
-💠 `PostgreSQL` `MySQL` `MariaDB` `TypeORM` `Drizzle ORM` `Prisma` `MS SQL Server`
+💠 `PostgreSQL` `MySQL` `MariaDB` `MongoDB` `Redis` `TypeORM` `Drizzle ORM` `Prisma` `MS SQL Server`
 
 💠 `Linux` `Docker` `SSH` `Apache` `Nginx` `GitHub` `Jira` `Vercel`
 
@@ -38,13 +38,22 @@ Recently built AI-powered applications using RAG pipelines, LangChain, and vecto
 
 ## 📌 Featured Projects
 
+### 💠 🚀 TaskFlow
+
+[GitHub](https://github.com/tolkensak/TaskFlow)&nbsp;&nbsp;&nbsp;[Live Demo](https://taskflow-ivory-nu.vercel.app)
+
+Real-time collaborative task management with GraphQL subscriptions, Redis Pub/Sub, and drag-and-drop Kanban
+
+**Tech Stack:** NestJS, GraphQL, React, Next.js, PostgreSQL, MongoDB, Redis, Docker, Render, Vercel
+
+
 ### 💠 🧠 DocuMind
 
 [GitHub](https://github.com/tolkensak/documind)&nbsp;&nbsp;&nbsp;[Live Demo](https://documind-seven-sable.vercel.app)
 
 An AI-Powered intelligent document assistant that lets you upload PDFs and ask questions in natural language
 
-**Tech:** Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel
+**Tech Stack:** Next.js, React, shadcn/ui, Radix UI, RAG (Retrieval-Augmented Generation), LangChain.js, Vector Databases (Pinecone), LLM Integration (Groq, OpenAI), Embeddings, Semantic Search, AI Application Development, Vercel
 
 ### 💠&nbsp;&nbsp;<img src="image/tol11.png" alt="" height="18"> tol11
 
@@ -52,7 +61,7 @@ An AI-Powered intelligent document assistant that lets you upload PDFs and ask q
 
 Multi-language utility library in continuous development since 2007. Supports multiple Visual Studio versions and includes 5 libraries.
 
-**Tech:** C, C++, MFC, MySQL, XML, Windows API
+**Tech Stack:** C, C++, MFC, MySQL, XML, Windows API
 
 ### 💠&nbsp;&nbsp;Ⓜ️ HOSTKEY Modules
 
@@ -60,7 +69,7 @@ Production modules for a global hosting platform:
 
 `DNS Management (PowerDNS)` `External Server Management` `Tags Management` `Reports & Dashboards (Google Charts)` `Design System & UI Modernization` `API Keys Management` `Pre-orders Management` `Two-factor Authentication (2FA) using TOTP, email, and SMS` `Login & Social Login (Google, GitHub, VK)`
 
-**Tech:** PHP, JavaScript, jQuery, PowerDNS, Google Charts, MySQL, REST API, DNS Management, HTML5, CSS3, SCSS, Figma
+**Tech Stack:** PHP, JavaScript, jQuery, PowerDNS, Google Charts, MySQL, REST API, DNS Management, HTML5, CSS3, SCSS, Figma
 
 ### 💠 📱 ASO Audit Agent
 
@@ -68,7 +77,7 @@ Production modules for a global hosting platform:
 
 AI-powered App Store Optimization audit tool with real-time analysis and actionable recommendations
 
-**Tech:** Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel
+**Tech Stack:** Next.js, TypeScript, React, Tailwind CSS, Mastra AI, Groq, Vercel
 
 ### 💠 🔗 link-hub
 
@@ -76,7 +85,7 @@ AI-powered App Store Optimization audit tool with real-time analysis and actiona
 
 Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle ORM
 
-**Tech:** Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel
+**Tech Stack:** Next.js, TypeScript, shadcn/ui, Radix UI, PostgreSQL, Drizzle ORM, Tailwind CSS, Vercel
 
 ### 💠 🌡️ Temperature App
 
@@ -84,7 +93,7 @@ Full-stack link management platform with GitHub OAuth, PostgreSQL, and Drizzle O
 
 Modern weather app with real-time data, temperature conversion, history tracking, and dark mode
 
-**Tech:** React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel
+**Tech Stack:** React, TypeScript, Zustand, React Query, Vite, Vitest, Vercel
 
 ### 💠 🌦️ My Weather App
 
@@ -92,31 +101,31 @@ Modern weather app with real-time data, temperature conversion, history tracking
 
 Full-stack weather app with server-side rendering and responsive design
 
-**Tech:** Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Open-Meteo API, Vercel
 
 ### 💠&nbsp;&nbsp;<img src="image/busincard.png" alt="" height="18"> Busincard
 
 Business promotion platform with interactive maps and client dashboards
 
-**Tech:** PHP, JavaScript, jQuery, MySQL, DataTables, BingMap
+**Tech Stack:** PHP, JavaScript, jQuery, MySQL, DataTables, BingMap
 
 ### 💠&nbsp;&nbsp;<img src="image/fitomir.png" alt="" height="18"> Fitomir
 
 Full e‑commerce (cart, orders, product registration)
 
-**Tech:** PHP, Laravel, JavaScript, jQuery, MySQL
+**Tech Stack:** PHP, Laravel, JavaScript, jQuery, MySQL
 
 ### 💠&nbsp;&nbsp;<img src="image/mobilegis.png" alt="" height="18"> MobileGIS
 
 Windows Pocket PC GIS for field work
 
-**Tech:** C++, STL, MFC, GPS, WinAPI
+**Tech Stack:** C++, STL, MFC, GPS, WinAPI
 
 ### 💠&nbsp;&nbsp;<img src="image/medlab.png" alt="" height="18"> Medlab
 
 Medical lab automation web app
 
-**Tech:** PHP, MySQL, JavaScript
+**Tech Stack:** PHP, MySQL, JavaScript
 
 ---
 
