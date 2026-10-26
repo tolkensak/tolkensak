@@ -7,9 +7,11 @@ Senior Full Stack Engineer · React/TypeScript, Next.js, Node.js, AI/RAG · PHP/
 
 ## 👋 About Me
 
-Senior Full Stack Developer with 18+ years of experience, specializing in React/TypeScript, Next.js, and Node.js.
+Senior Full Stack Developer with 18+ years of experience, specializing in React/TypeScript, Next.js, Node.js, and modern full-stack development.
 
-Recently built AI-powered applications using RAG pipelines, LangChain, and vector databases. Deep background in PHP/Laravel and systems programming (C/C++).
+Recently shipped TaskFlow — a real-time collaborative platform with GraphQL subscriptions, Redis Pub/Sub, and a hybrid PostgreSQL/MongoDB architecture.
+
+Deep background in PHP/Laravel and C/C++ systems programming.
 
 ---
 
